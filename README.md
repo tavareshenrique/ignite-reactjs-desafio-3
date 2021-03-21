@@ -22,10 +22,10 @@
 ### Fotos
 
 <div>
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-3/master/src/assets/previews/preview1.png" width="500px" />
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-3/master/src/assets/previews/preview2.gif" width="500px" />
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-3/master/src/assets/previews/preview3.png" width="500px" />
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-3/master/src/assets/previews/preview4.gif" width="500px" />
+   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-3/master/src/assets/previews/preview1.png" width="400px" />
+   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-3/master/src/assets/previews/preview2.gif" width="400px" />
+   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-3/master/src/assets/previews/preview3.png" width="400px" />
+   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs-desafio-3/master/src/assets/previews/preview4.gif" width="400px" />
 </div>
 
 # :computer: Tecnologias
